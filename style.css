@@ -2,6 +2,7 @@
   --container-max: 56rem;
 }
 
+
 body {
   margin: 0;
   font-family: sans-serif;
@@ -27,4 +28,8 @@ body {
   header svg {
     display: none;
   }
-}
+} 
+.d-flex {display: flex; } 
+
+
+
